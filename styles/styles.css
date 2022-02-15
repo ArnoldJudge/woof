@@ -1,1 +1,12 @@
+/* typography */
+
+h1 {
+    font-family: 'Rowdies', cursive;
+}
+
+p, a {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* layout */
 
